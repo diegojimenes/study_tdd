@@ -1,0 +1,15 @@
+{
+  "name": "study_tdd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/diegojimenes/study_tdd",
+  "author": "diego jimenes",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^24.9.0"
+  }
+}
