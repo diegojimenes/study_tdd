@@ -6,5 +6,5 @@ test("soma", () => {
 });
 
 test("mult", () => {
-  expect(mult(1, 1)).toBe(2);
+  expect(mult(1, 1)).toBe(1);
 });
